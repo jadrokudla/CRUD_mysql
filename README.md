@@ -7,5 +7,5 @@
 <img src="index_page.png" alt="" width="800">
 
 <h3>CRUD, product with id:24 has been edited</h3>
-<img src="after_edit.png" alt="" width="800">
+<img src="after_edit1.png" alt="" width="800">
 
